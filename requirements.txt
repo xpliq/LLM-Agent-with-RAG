@@ -1,0 +1,10 @@
+pymupdf4llm
+transformers
+langchain
+langchain-community
+text_generation
+sentence-transformers
+torch
+torchvision
+torchaudio
+chromadb
